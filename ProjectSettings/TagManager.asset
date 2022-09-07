@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Level
+  - Portal
+  - ScoreBlock
+  - 10Stick
+  - 1Coin
+  - Dialogue
+  - Collectible10
+  - Collectible1
+  - Screws
+  - Batteries
+  - JuiceCarton
+  - PortalNextLevel
+  - OrdinalObject
+  - OrdinalSprite
+  - OrdinalNumber
+  - OrdinalEnemyDom
+  - CardinalEnemy
+  - BatteryScore
+  - ScrewScore
+  - JuiceScore
+  - TargetNumber
+  - NumberResetBlock
+  - Assessment
+  - LoadStatsMenu
+  - StageTimeDisplay
+  - StageTimeDisplayParent
+  - MainMenu
+  - PauseMenu
+  - HelpPage
+  - EndLevelScreen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2724466303
+    locked: 0
+  - name: Player
+    uniqueID: 456614469
+    locked: 0
